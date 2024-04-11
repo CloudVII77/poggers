@@ -1,0 +1,10 @@
+html {
+  font-family: "Anta", sans-serif;
+}
+body{
+  background-image: url(coisa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
